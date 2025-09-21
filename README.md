@@ -24,9 +24,7 @@
 - Share my cosmic journey with fellow stargazers ✨  
 
 ---
-
-
-> **Dream like Stardust, Shine like the Stars!** .𖥔 ݁ ˖ ✦ ‧₊˚ ⋅
+**Dream like Stardust, Shine like the Stars!** .𖥔 ݁ ˖ ✦ ‧₊˚ ⋅
 
 
 
