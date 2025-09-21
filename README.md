@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Stardyy/Stardyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ I'm **stardyy** — welcome to my personal galaxy! ⋆˚☆˖°⋆｡° ✮˖ ࣪ ⊹⋆.˚
 
-Here are some ideas to get you started:
+![star headers](https://github.com/user-attachments/assets/9899cddb-6be2-46e2-ac41-cbd926953a3c)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌌 About Me
+
+- 🎓 Freshman, **BS Information Technology**
+- 🎨 Aspiring **Web Designer**
+- 💙 Personal branding: **Blue + Stars/Cosmic vibes**
+- 🎮 Gamer at heart (Lux main ✨ from League of Legends!)
+
+![lux](https://github.com/user-attachments/assets/16afdcfb-e06a-43d7-8432-4cff71f0cc57)
+
+---
+
+## 🚀 My Goals
+
+- Start building projects here on GitHub  
+- Learn and grow as a **developer + designer**  
+- Share my cosmic journey with fellow stargazers ✨  
+
+---
+
+
+> **Dream like Stardust, Shine like the Stars!** .𖥔 ݁ ˖ ✦ ‧₊˚ ⋅
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠳⣶⡄
+⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡴⠖⢂⣽⣿⣿⣷⣔⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⠟
+⠀⠀⠀⠀⣀⣤⡶⢿⣋⣥⣤⣶⣿⣿⣿⣿⣿⣿⣿⣶⣤⣄⣀⡀⢀⣠⣾⠿⠋⠀
+⠀⢀⣴⣿⠟⠉⠀⠀⠀⠈⠉⠛⠻⣿⣿⣿⣿⡿⠛⠋⠉⣀⣤⠶⠟⠋⠁⠀⠀⠀
+⢰⣿⡟⠁⠀⠀⠀⣷⠀⠀⠀⠀⠀⠈⣿⣿⣟⣀⡤⠖⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀
+⠘⠿⣧⣀⡠⠤⢾⣿⣷⠤⠄⠀⠀⠀⢹⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠉⠀⠀⠀⡿⠁⠀⠀⠀⠀⠀⠈⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠙⠀⠀⠀⠀⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+⭐ Thanks for visiting my galaxy — more constellations (projects) coming soon!
